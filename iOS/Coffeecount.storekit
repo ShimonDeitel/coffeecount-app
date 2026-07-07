@@ -1,0 +1,42 @@
+{
+  "identifier": "coffeecount",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Coffeecount Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "0.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "coffeecount_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks category breakdown and month-over-month comparison.",
+              "displayName": "Coffeecount Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "coffeecount_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Coffeecount Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
